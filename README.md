@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 Programmer </>
-- 🌐 Web Designer </>
+- 🌐 Front End Developer </>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
